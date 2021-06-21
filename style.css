@@ -82,7 +82,7 @@ html {
 /* body */
 .main-container{
     background-size:cover ;
-    background-image: url("/assets/background.png");
+    background-image: url("./assets/background.png");
     height: 100vh;
     padding-top: 10vh;
 }
